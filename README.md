@@ -1,4 +1,4 @@
-# Job Application Tracker
+# 💼Job Application Tracker
 
 A full-stack job application tracking system built with Next.js, featuring a Kanban board interface for managing your job search.
 
